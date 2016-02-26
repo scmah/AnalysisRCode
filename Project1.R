@@ -1,4 +1,4 @@
-## R Project ##
+## Sonalika R Project ##
 library(plm)
 library(QMSS)
 library(VGAM)
